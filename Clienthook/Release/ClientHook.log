@@ -1,0 +1,2 @@
+﻿LINK : warning LNK4075: se omite '/INCREMENTAL' debido a la especificación '/OPT:ICF'
+  ClientHook.vcxproj -> E:\Rohan-Cliente\Clienhook\Release\ClientHook.dll

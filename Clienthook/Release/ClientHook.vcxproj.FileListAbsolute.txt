@@ -1,0 +1,2 @@
+E:\Rohan-Cliente\Clienhook\Release\ClientHook.vcxproj.AssemblyReference.cache
+E:\Rohan-Cliente\Clienhook\Release\ClientHook.dll
